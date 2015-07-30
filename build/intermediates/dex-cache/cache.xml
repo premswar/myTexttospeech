@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\premswar\AndroidStudioProjects\Texttospeech\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\premswar\AndroidStudioProjects\Texttospeech\app\build\intermediates\pre-dexed\debug\classes-b86ee573b2a2827b92b486fc7c359a82f7378202.jar" />
+    </item>
+    <item
+        jar="C:\Users\premswar\AndroidStudioProjects\Texttospeech\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\premswar\AndroidStudioProjects\Texttospeech\app\build\intermediates\pre-dexed\debug\classes-f076b684dd86a387c25c9d194947c1af21084af0.jar" />
+    </item>
+    <item
+        jar="C:\Users\premswar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\premswar\AndroidStudioProjects\Texttospeech\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b8cc5b302cea399417f38002ade8a493c2ace8bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\premswar\AndroidStudioProjects\Texttospeech\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\premswar\AndroidStudioProjects\Texttospeech\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-39b74a04fb5375b4221e95b2d6707f574742f7ea.jar" />
+    </item>
+
+</items>
